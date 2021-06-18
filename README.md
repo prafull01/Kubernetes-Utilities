@@ -6,4 +6,4 @@ TO DO: Currently it doesn't support multiple kubernetes objects in same json fil
 
 2. `kubectl_cp_as_python_client` is a utility to copy a file inside the pod and copy a file from the pod to host. You can provide the pod_name to/from you want to copy the file, src_path source path of file you want to copy and dest_path destination path of folder you want to copy it to.
 
-TO DO: Currently, it doesn't support the copying of entire folder from/to the pod. This functionality is yet to be added.
+TODO: Currently, it doesn't support the copying of entire folder from/to the pod. This functionality is yet to be added.
